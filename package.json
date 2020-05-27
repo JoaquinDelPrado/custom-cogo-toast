@@ -1,5 +1,5 @@
 {
-	"name": "cogo-toast",
+	"name": "@joaquindelprado/custom-cogo-toast",
 	"description": "Beautiful, Zero Configuration, Toast Messages - Built with React",
 	"version": "4.2.3",
 	"license": "MIT",

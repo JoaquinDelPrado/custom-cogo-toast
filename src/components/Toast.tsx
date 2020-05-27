@@ -23,7 +23,7 @@ type CToastProps = CTOptions & {
 };
 
 const Toast: React.FC<CToastProps> = (props) => {
-	const place = (props.position || 'top-center').includes('bottom') ? 'Bottom' : 'Top';
+	const place = (props.position || 'top-center').indexOf('bottom') ? 'Bottom' : 'Top';
 	const marginType = `margin${place}`;
 
 	const className = [
