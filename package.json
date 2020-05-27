@@ -73,14 +73,13 @@
 		"dist",
 		"index.d.ts"
 	],
-	"homepage": "https://cogoport.github.io/cogo-toast/",
-	"bugs": {
-		"url": "https://github.com/Cogoport/cogo-toast/issues"
-	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/Cogoport/cogo-toast.git"
+		"url": "git+https://github.com/JoaquinDelPrado/custom-cogo-toast"
 	},
+	"publishConfig": {
+    "registry":"https://npm.pkg.github.com/"
+  },
 	"keywords": [
 		"react",
 		"toast",
