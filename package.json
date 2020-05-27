@@ -97,20 +97,6 @@
 		"ui"
 	],
 	"author": {
-		"name": "Cogoport",
-		"email": "developers@cogoport.io",
-		"url": "https://cogoport.io/"
-	},
-	"contributors": [
-		{
-			"name": "Cogoport",
-			"email": "developers@cogoport.io",
-			"url": "https://cogoport.io/"
-		},
-		{
-			"name": "anmolmahatpurkar",
-			"email": "anmol@cogoport.com",
-			"url": "https://github.com/anmolmahatpurkar"
-		}
-	]
+		"name": "Cogoport"
+	}
 }
